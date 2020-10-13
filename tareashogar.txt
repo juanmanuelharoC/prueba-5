@@ -1,2 +1,4 @@
 muebles 
 baño
+tapete 
+cochera
